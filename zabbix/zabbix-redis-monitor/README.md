@@ -1,4 +1,4 @@
-# Redis 状态监控模板
+# Redis 状态监控模板 For Zabbix 3.x ～ 4.x
 
 ## 使用帮助
 
